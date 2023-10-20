@@ -1,0 +1,5 @@
+{
+  "range_min": 1,
+  "range_max": 100,
+  "max_attempts": 10
+}
